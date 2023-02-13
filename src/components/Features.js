@@ -63,7 +63,7 @@ const Features = () => {
                   <p className='font-light italic mb-4'>{description}</p>
                   {/* link & arrow */}
                   <div className='flex items-center gap-x-2 group'>
-                    <a className='text-primary font-bold' href='#'>
+                    <a className='text-primary font-bold' href='/#'>
                       {linkText}
                     </a>
                     <BsArrowRight className='text-xl text-accent-primary group-hover:ml-[5px] transition-all' />
